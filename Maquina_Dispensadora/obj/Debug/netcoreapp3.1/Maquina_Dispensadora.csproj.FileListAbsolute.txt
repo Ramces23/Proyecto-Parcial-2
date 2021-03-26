@@ -1,0 +1,13 @@
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\bin\Debug\netcoreapp3.1\Maquina_Dispensadora.exe
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\bin\Debug\netcoreapp3.1\Maquina_Dispensadora.deps.json
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\bin\Debug\netcoreapp3.1\Maquina_Dispensadora.runtimeconfig.json
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\bin\Debug\netcoreapp3.1\Maquina_Dispensadora.runtimeconfig.dev.json
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\bin\Debug\netcoreapp3.1\Maquina_Dispensadora.dll
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\bin\Debug\netcoreapp3.1\Maquina_Dispensadora.pdb
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.csprojAssemblyReference.cache
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.AssemblyInfoInputs.cache
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.AssemblyInfo.cs
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.csproj.CoreCompileInputs.cache
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.dll
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.pdb
+C:\Users\HP Probook 4430s\source\repos\Proyecto-Parcial-2\Maquina_Dispensadora\obj\Debug\netcoreapp3.1\Maquina_Dispensadora.genruntimeconfig.cache
